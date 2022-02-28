@@ -1,0 +1,6 @@
+James,Smith,123 Main St,Rapid City,SD,57701,89.55,12.5
+Sally,Struthers,2345 Elk Dr,Rapid City,SD,57701,-1004.50,2598.98
+Kelly,Bundy,9801 5th St,Rapid City,SD,57702,-901.55,901.55
+Elon,Musk,1001 Wizard Ave,Buena Vista,CA,90210,0.0,2304500.0
+John,Watson,221B Baker St,London,UK,L1Z 3BS,-231.55,0
+Ellen,Smith,9823 Fullmore Rd,Addison,TX,78901,126.90,54.60
